@@ -43,18 +43,18 @@ body {
     opacity: 1;
 }
 
-.strelki {
+/*.strelki {
     position: absolute;
     display: flex;
     top: 45%;
 }
-/*.strelka_back {
+.strelka_back {
     overflow: hidden;
 }
 
 .strelka_next {
 
-}*/
+}
 
 .next img{
     width: 50px;
@@ -67,7 +67,7 @@ body {
 .next img:hover {
     transform: scale(1.05);
     opacity: 1;
-}
+} */
 
 input[name="r"] {
     position: absolute;
